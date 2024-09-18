@@ -68,81 +68,13 @@ var _hmt = _hmt || [];
     nav: [
       // { text: "Home", link: "/" },
       {
-        text: "客户端",
-        items: [
-          { text: "JavaScript", link: "/javascript/" },
-          { text: "css", link: "/css/" },
-          { text: "Vue", link: "/vue/" },
-          { text: "React", link: "/react/" },
-          { text: "Webpack", link: "/webpack/" },
-          { text: "微信小程序", link: "/miniprogram/" },
-        ],
-      },
-      {
-        text: "服务端",
-        items: [
-          { text: "C/C++", link: "/cpp/" },
-          { text: "Linux", link: "/linux/" },
-          { text: "Linux软件安装", link: "/linux-install/" },
-          { text: "MySQL", link: "/mysql/" },
-          { text: "Redis", link: "/redis/" },
-          { text: "Laravel", link: "/laravel/" },
-          { text: "Websocket", link: "/websocket/" },
-          { text: "Python", link: "/python/" },
-          { text: "Golang", link: "/golang/" },
-          { text: "PHP", link: "/php/" },
-        ],
-      },
-
-      {
-        text: "Java",
-        items: [
-          { text: "Java", link: "/java/" },
-          { text: "Maven", link: "/maven/" },
-          { text: "Spring", link: "/spring/" },
-          { text: "SpringBoot", link: "/spring-boot/" },
-          { text: "MyBatis", link: "/mybatis/" },
-          { text: "MyBatis-Plus", link: "/mybatis-plus/" },
-          { text: "Dubbo", link: "/dubbo/" },
-          { text: "Zookeeper", link: "/zookeeper/" },
-          { text: "Rabbitmq", link: "/rabbitmq/" },
-          { text: "Sentinel", link: "/sentinel/" },
-          { text: "Seata", link: "/seata/" },
-          { text: "ElasticSearch", link: "/elasticsearch/" },
-          { text: "SpringCloud", link: "/microservices/" },
-          { text: "Docker", link: "/docker/" },
-          { text: "Jmeter", link: "/jmeter/" },
-        ],
-      },
-      {
-        text: "其他",
-        items: [
-          { text: "CSDN", link: "https://blog.csdn.net/mouday" },
-          { text: "程序员导航", link: "https://mouday.github.io/hao123/" },
-          {
-            text: "前端Demo",
-            link: "https://mouday.github.io/front-end-demo/",
-          },
-          {
-            text: "Vue Demo",
-            link: "https://mouday.github.io/vue-demo/",
-          },
-
-          { text: "学习笔记", link: "https://mouday.github.io/LearningNote/" },
-          {
-            text: "SpringBoot Demo",
-            link: "https://mouday.github.io/spring-boot-demo/",
-          },
-          { text: "全栈爱好者周刊", link: "/weekly/" },
-          { text: "软考", link: "/ruankao/" },
-          { text: "数据结构和算法", link: "/data-structure-and-algorithm/" },
-          { text: "在线工具箱", link: "https://mouday.github.io/tools/" },
-        ],
+        text: "CodingTree",
+        link: "https://mouday.github.io/coding-tree/",
       },
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/mouday/coding-tree" },
+      { icon: "github", link: "https://github.com/mouday/cpp-doc" },
     ],
 
     outlineTitle: "导航目录",
