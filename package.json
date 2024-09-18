@@ -1,0 +1,29 @@
+{
+  "name": "cpp-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouday/coding-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouday/coding-tree/issues"
+  },
+  "homepage": "https://github.com/mouday/coding-tree#readme",
+  "devDependencies": {
+    "vite-plugin-vitepress-auto-sidebar": "^1.6.3",
+    "vitepress": "^1.1.0"
+  },
+  "dependencies": {}
+}
